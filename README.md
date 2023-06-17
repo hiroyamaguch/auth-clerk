@@ -4,11 +4,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://nextjs.org/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
     <img alt="Nextjs" style="height: 50px" src="./public/next.svg">
   <a>
   &nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;
-  <a href="https://clerk.com/" target="_blank">
+  <a href="https://clerk.com/" target="_blank" rel="noopener noreferrer">
     <img alt="Clerk" style="height: 50px" src="./public/clerk-logo.svg">
   <a>
 </p>
