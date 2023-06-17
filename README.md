@@ -4,9 +4,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://nextjs.org/"><img alt="Nextjs" style="height: 50px" src="./public/next.svg"><a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Nextjs" style="height: 50px" src="./public/next.svg">
+  <a>
   &nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;
-  <a href="https://clerk.com/"><img alt="Clerk" style="height: 50px" src="./public/clerk-logo.svg"><a>
+  <a href="https://clerk.com/" target="_blank">
+    <img alt="Clerk" style="height: 50px" src="./public/clerk-logo.svg">
+  <a>
 </p>
 
 <p align="center">
