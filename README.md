@@ -1,6 +1,3 @@
-<p align="center">
-  <img alt="GoBarber Logo" src="./frontend/src/assets/logo.svg">
-</p>
 
 <h3 align="center">
   First project with Next.js and Clerk
@@ -9,6 +6,12 @@
 <p align="center">
   <a href="https://nextjs.org/">Next.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://clerk.com/">Clerk</a>
+</p>
+
+<p align="center">
+  <img alt="Nextjs" style="height: 50px" src="./public/next.svg">
+  &nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;
+  <img alt="Clerk" style="height: 50px" src="./public/clerk-logo.svg">
 </p>
 
 <p align="center">
