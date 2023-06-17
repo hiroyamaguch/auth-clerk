@@ -1,34 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img alt="GoBarber Logo" src="./frontend/src/assets/logo.svg">
+</p>
 
-## Getting Started
+<h3 align="center">
+  First project with Next.js and Clerk
+</h3>
 
-First, run the development server:
+<p align="center">
+  <a href="https://nextjs.org/">Next.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://clerk.com/">Clerk</a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hiroyamaguch/gobarber?color=04D361">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <a href="https://pedroyamaguchi.dev/">
+    <img alt="Made by Pedro Yamaguchi" src="https://img.shields.io/badge/made%20by-Pedro%20Yamaguchi-04D361">
+  </a>
+  
+  <a href="./LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-04D361">
+  </a>  
+</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## :memo: Sobre o projeto
+Aplicação criada para testar integração do Clerk ao Next.js
